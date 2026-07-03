@@ -1,0 +1,28 @@
+{
+  "name": "isa-refund",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "이사정산소 — 이사 나갈 때 돌려받을 장기수선충당금 자동 계산 + 반환 청구 서류 생성",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "fetch-data": "node scripts/fetch-kapt.mjs",
+    "license": "node scripts/gen-license.mjs"
+  },
+  "dependencies": {
+    "@noble/ed25519": "^2.1.0",
+    "@noble/hashes": "^1.4.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.8",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^5.6.2",
+    "vite": "^5.4.7"
+  }
+}

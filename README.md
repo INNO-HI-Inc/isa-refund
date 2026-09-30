@@ -1,9 +1,26 @@
-# ₩ 이사정산소
+<div align="center">
+
+# 이사정산소
+
+**이사 나갈 때 돌려받을 장기수선충당금 자동 계산 + 반환 청구 서류 생성**
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
+![서버 없음](https://img.shields.io/badge/%EC%84%9C%EB%B2%84-%EC%97%86%EC%9D%8C-2EA44F?style=flat-square)
+
+<a href="https://inno-hi-inc.github.io/isa-refund/"><img src="docs/hero.jpg" alt="이사정산소 데스크톱 첫 화면" width="74%"></a>&nbsp;<a href="https://inno-hi-inc.github.io/isa-refund/"><img src="docs/mobile.jpg" alt="이사정산소 모바일 첫 화면" width="21.5%"></a>
+
+**[바로 써보기](https://inno-hi-inc.github.io/isa-refund/)**
+
+</div>
+
+---
 
 이사 나가는 세입자가 집주인에게 돌려받아야 할 **장기수선충당금**을 자동 계산하고,
 반환 요청 문자 → 내용증명 → 지급명령 신청서까지 만들어 주는 완전 정적 웹앱입니다.
 
-> "아파트 이름 + 전용면적 + 거주기간 입력 → 3초 만에 '돌려받을 돈 47만원'"
+"아파트 이름 + 전용면적 + 거주기간 입력 → 3초 만에 '돌려받을 돈 47만원'"
 
 ## 왜 이 돈을 돌려받을 수 있나
 
@@ -89,3 +106,9 @@ Pretendard · 완전 정적(서버 없음)
 이 서비스는 일반 정보 제공 도구이며 법률 자문이 아닙니다. 계산 결과는 추정치이고,
 실제 반환 금액은 관리사무소 발급 납부확인서로 확정됩니다. 임대차계약서에 임차인 부담
 특약이 있으면 반환이 제한될 수 있습니다.
+
+---
+
+<div align="center">
+<sub>Made by <a href="https://github.com/khwee2000">김민수 (@khwee2000)</a> · <a href="https://github.com/INNO-HI-Inc">INNO-HI</a></sub>
+</div>
